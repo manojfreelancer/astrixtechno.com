@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+/* services */
+header.smaller #mainmenu ul ul {
+			top: 0;
+		}
+		#section-typing.bg-color{
+			    background-color: #FAB702;
+		}
+		.autoshow.scrollOff nav.bt-nav-menu{
+			display: none;
+		}
+			section {
+    background:none; 
+    padding: 40px 0 40px 0; 
+}
+
+
+#content {
+    background:none;
+    padding: 0px 0 10px 0;  
+}
+
+
+
+
+
+body {
+    display: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ddd;
+    line-height: 1.8em;
+    padding: 0;
+    background:white;
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(#1e10ef,#909236,#350316)!important;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+	font-size:30px;
+	margin-top:50px;
+}
+
+.services2,.services3,.services4{
+color:#2b0a0a;font-size:15px;padding-top:25px;}
+.para{color:#2b0a0a;}
+
+.zaaf{color:#2b0a0a;padding:20px;}
+
+.description_content{color:#2b0a0a;}
+
+.insert{color:#383d44;  margin:20px;}
+.insertt{color:#383d44; margin:15px;}
+
+ .panel-group .panel {
+        border-radius: 0;
+        box-shadow: none;
+        border-color: #EEEEEE;
+    }
+
+    .panel-default > .panel-heading {
+        padding: 0;
+        border-radius: 0;
+        color: #fff;
+		background-color: #BA55D3;
+        background-image: url{images/misc/bg.jpg} ;
+        border-color: #EEEEEE;
+    }
+	.panel-heading, .panel-body {
+     background:#fff;
+    border: solid 1px #404040 !important;
+    border-radius: 0 !important;
+	color:#383d44;}
+
+.panel-headings{background-color:#CD2990;}
+.panel-headingg {background-color:#00C78C;}
+	
+	
+	
+	.panel-heading{background:#BA55D3;}
+
+    .panel-title {
+        font-size: 14px;
+    }
+
+    .panel-title > a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+    }
+
+    .more-less {
+        color: #212121;
+    }
+
+    .panel-default > .panel-heading + .panel-collapse > .panel-body {
+        border-top-color: #EEEEEE;
+    }
+ .percentage{background:black;min-height:150px;}
+	.yup{font-size:100px;line-height:150px;}	
+	.lock{font-size:20px;padding-top:40px;text-align:justify;}
+	 .alt{font-color:#2b0a0a;}
+.sys{color:#000;}
+
+.bttn{background:black;}
+.bttn:hover{background:black;color:#fff;}
+.bttn:focus{background:black;color:#fff;}
+
+
+
+.sys{color:black;}
+.sys:hover{color:blue;}
+
+@media (min-width:10px ) and (max-width:768px) {video, object{ width:80%;height:180px !important;}}
+
+
+.description_content{position:absolute;top:50%; padding-bottom:10px;color:#fff;font-size:25px;border-bottom:solid 1px white;}
+.ins{margin-bottom: 15px; border:solid 3px yellow;}
+
+<<--->>
+
+
+<--about us-->
+
+.leed{color:#2b0a0a;font-size:25px;padding-bottom:15px; }
+.paad{color:#2b0a0a;font-size:15px;}
+.picture{margin-top:-40px;}
+.vision{color:#2b0a0a;font-size:15px;}
+.mission{color:#2b0a0a;font-size:15px;}
+
+
+body{margin:0px; padding:0px;}
+@-webkit-keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -400px 0;}
+}
+ 
+@keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -400px 0;}
+}
+<--->
+
+
+
+
+
+<--board-of-director-->
+.team{padding-top:70px;}
+.management{color:#2b0a0a;font-size:20px;padding-bottom:15px;}
+
+.p2{color:black; text-align:center;}
+
+.mg30{margin-top:30px;}
+.pop{color:black;}
+.name{margin-top:20px;}
+
+.board{margin-left:70px;}
+@media (min-width:10px) and (max-width:768px){.board{margin-left:0px;}}
+@media (min-width:768px) and (max-width:991px){.board{margin-left:50px;}}
+-->>>
+
+<--contact us-->
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,800);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+			section {
+    background:none; 
+    padding: 40px 0 40px 0; 
+	background:#fff;
+}
+.lists {
+  list-style: none;
+  padding: 0;
+}
+.lists > li {
+  padding-left: 1.3em;
+}
+.lists > li:before {
+  content: "\f046"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}
+
+
+.mb2{font-family: 'Quicksand', sans-serif;
+font-weight: 700;
+color: #000000;
+letter-spacing: 0px;}
+
+.fa{color:#000;font-size:30px;}
+.fa:hover{color:blue;font-size:30px;}
